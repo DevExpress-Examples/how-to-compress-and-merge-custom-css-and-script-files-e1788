@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [styles1.css](./CS/WebSite/CSS/styles1.css)
+* [styles2.css](./CS/WebSite/CSS/styles2.css)
+* [CssJsHandler.aspx](./CS/WebSite/CssJsHandler.aspx) (VB: [CssJsHandler.aspx.vb](./VB/WebSite/CssJsHandler.aspx.vb))
+* [CssJsHandler.aspx.cs](./CS/WebSite/CssJsHandler.aspx.cs) (VB: [CssJsHandler.aspx.vb](./VB/WebSite/CssJsHandler.aspx.vb))
+* [default.aspx](./CS/WebSite/default.aspx) (VB: [default.aspx.vb](./VB/WebSite/default.aspx.vb))
+* [default.aspx.cs](./CS/WebSite/default.aspx.cs) (VB: [default.aspx.vb](./VB/WebSite/default.aspx.vb))
+* [scripts.js](./CS/WebSite/Scripts/scripts.js) (VB: [scripts.js](./VB/WebSite/Scripts/scripts.js))
+<!-- default file list end -->
 # How to compress and merge custom CSS and Script files
 
 
